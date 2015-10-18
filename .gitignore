@@ -1,0 +1,16 @@
+example/*
+eclipse/*
+
+*.jar
+*.project
+*.iml
+*.classpath
+
+*/target/*
+*/.idea/*
+*/.settings/*
+*/lib/*
+*/lib_managed/*
+*/project/*
+*/recitations/*
+*/submission/*
